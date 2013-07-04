@@ -1,4 +1,3 @@
-squirrelmail-postini
 Postini Plugin for SquirrelMail
 ====================
 
